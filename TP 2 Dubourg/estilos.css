@@ -65,6 +65,29 @@ iframe {
 #contacto {
     color: white;
 }
-boton1{
+.carousel {
+    margin-top: 7%;
+}
+nav {
+
+    height: 80px;
     
+}
+#logo {
+        height: 75px;
+    }
+#llamar0 {
+    padding-top: 10%;
+    
+}
+h2 {
+    padding-bottom: 20%;
+    
+}
+h2 :hover {
+    text-decoration: none;
+    color: white;
+}
+h2 a {
+    color: red;
 }
